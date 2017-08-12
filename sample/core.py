@@ -158,7 +158,7 @@ class NewGoogleQuote(Quote):
             # we are a robot, so stop execution for 10 minutes
             except ValueError:
                 print("using yahoo")
-                self = YahooQuote(symbol,start_date,end_date=datetime.date.today().isoformat())
+                self = YahooQuote(ticker_real,start_date,end_date=datetime.date.today().isoformat())
                 break
             try:
                 open_,high,low,close = [float(x) for x in [open_,high,low,close]]
@@ -174,8 +174,9 @@ class NewGoogleQuote(Quote):
 class YahooQuote(Quote):
     ''' Daily quotes from Yahoo. Date format='yyyy-mm-dd' '''
     def __init__(self,symbol,start_date,end_date=datetime.date.today().isoformat(), file = open("failed.txt", "a+")):
-        self.file = file
         super(YahooQuote,self).__init__()
+        self.file = file
+        print("using yahoo quote")
         try:
             self.symbol = symbol.upper()
         except AttributeError:
@@ -292,9 +293,12 @@ if __name__ == "__main__":
     failed_stock = failed_file_read.read()
     successful_set = set(successful_stock.split("\n"))
     failed_set = set(failed_stock.split("\n"))
-    data_source = pd.read_csv("ticker_all.csv")
+    data_source = pd.read_csv("ticker_all.csv", keep_default_na=False)
     tickers = data_source["oftic"]
     sdates = data_source["sdates"]
+
+    print(len(successful_set))
+    print(len(failed_set))
 
     # sampleQuote = NewYahooQuote("AAPL", "2016-08-01")
     # sampleQuote.write_csv("randomTest.csv")
@@ -308,9 +312,10 @@ if __name__ == "__main__":
     # print(ystockquote.get_historical_prices('GOOGL', '2013-01-03', '2013-01-08'))
 
     for i in range(0, len(tickers)):
-        if tickers[i] != "" and sdates[i] != "" and (not successful_set.__contains__(tickers[i])) \
+        if tickers[i] != "" and tickers[i] and sdates[i] != "" and (not successful_set.__contains__(tickers[i])) \
                 and (not failed_set.__contains__(tickers[i])) :
             print(tickers[i])
+            print(i)
             ticker = tickers[i]
             if "/" in str(ticker):
                 ticker = ticker[0: ticker.index("/")]

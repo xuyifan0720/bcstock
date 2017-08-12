@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="757d9e2d-2d94-4cdc-9a18-e095c2f4923c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pip-selfcheck.json" afterPath="$PROJECT_DIR$/pip-selfcheck.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/failed.txt" afterPath="$PROJECT_DIR$/failed.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/ABG.csv" afterPath="$PROJECT_DIR$/prices/ABG.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/ACL.csv" afterPath="$PROJECT_DIR$/prices/ACL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/AFC.csv" afterPath="$PROJECT_DIR$/prices/AFC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/AL.csv" afterPath="$PROJECT_DIR$/prices/AL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/AP.csv" afterPath="$PROJECT_DIR$/prices/AP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/AT.csv" afterPath="$PROJECT_DIR$/prices/AT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/BA.csv" afterPath="$PROJECT_DIR$/prices/BA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/BAL.csv" afterPath="$PROJECT_DIR$/prices/BAL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/BAP.csv" afterPath="$PROJECT_DIR$/prices/BAP.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/BC.csv" afterPath="$PROJECT_DIR$/prices/BC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/BEL.csv" afterPath="$PROJECT_DIR$/prices/BEL.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/BRN.csv" afterPath="$PROJECT_DIR$/prices/BRN.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/CEV.csv" afterPath="$PROJECT_DIR$/prices/CEV.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/CMA.csv" afterPath="$PROJECT_DIR$/prices/CMA.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/CON.csv" afterPath="$PROJECT_DIR$/prices/CON.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/CPT.csv" afterPath="$PROJECT_DIR$/prices/CPT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/CRM.csv" afterPath="$PROJECT_DIR$/prices/CRM.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/CSC.csv" afterPath="$PROJECT_DIR$/prices/CSC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/EVER.csv" afterPath="$PROJECT_DIR$/prices/EVER.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/FDC.csv" afterPath="$PROJECT_DIR$/prices/FDC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/GLO.csv" afterPath="$PROJECT_DIR$/prices/GLO.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/HT.csv" afterPath="$PROJECT_DIR$/prices/HT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/IT.csv" afterPath="$PROJECT_DIR$/prices/IT.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/LC.csv" afterPath="$PROJECT_DIR$/prices/LC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/PPC.csv" afterPath="$PROJECT_DIR$/prices/PPC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/SC.csv" afterPath="$PROJECT_DIR$/prices/SC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/TAC.csv" afterPath="$PROJECT_DIR$/prices/TAC.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices/TTMT.csv" afterPath="$PROJECT_DIR$/prices/TTMT.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/core.py" afterPath="$PROJECT_DIR$/sample/core.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/successfully_read.txt" afterPath="$PROJECT_DIR$/successfully_read.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +81,8 @@
       <file leaf-file-name="core.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample/core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="314" column="33" lean-forward="false" selection-start-line="314" selection-start-column="33" selection-end-line="314" selection-end-column="33" />
+            <state relative-caret-position="269">
+              <caret line="156" column="42" lean-forward="true" selection-start-line="156" selection-start-column="42" selection-end-line="156" selection-end-column="42" />
               <folding>
                 <element signature="e#24#34#0" expanded="true" />
               </folding>
@@ -103,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,8 +173,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,18 +361,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -353,6 +383,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sample/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sample/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -604,8 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample/core.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="314" column="33" lean-forward="false" selection-start-line="314" selection-start-column="33" selection-end-line="314" selection-end-column="33" />
+        <state relative-caret-position="269">
+          <caret line="156" column="42" lean-forward="true" selection-start-line="156" selection-start-column="42" selection-end-line="156" selection-end-column="42" />
           <folding>
             <element signature="e#24#34#0" expanded="true" />
           </folding>
